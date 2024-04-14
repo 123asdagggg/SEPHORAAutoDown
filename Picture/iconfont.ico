@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4504743 */
+  src: url('iconfont.eot?t=1712890145166'); /* IE9 */
+  src: url('iconfont.eot?t=1712890145166#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPwAAsAAAAACDgAAAOhAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHFQGYACCcAqELINHATYCJAMICwYABCAFhGcHOBsLBxFVnE/IfhzkZNLnX1xxRhbvTFnWONcz+PeseVG1UHVCugCQHulPGW2AAAKyi9NxlIlQe3KW56/vSdvdlDTjaJxCKYTEYTGK///e8V/Hs9fxC+CNOWysiR8sz7KP2Z42FmEnLzCOG8YuaImngACQwp4vKjg0OhkG1QXNteiHgdlMgCSTVFeUFUDM9WAaWARiFdd1IQMyAyxATaTOApgevJ68gWNigAJLw8yJLw0pxonnldYQWtAJQN+FMF0NHEwBYAHQAKw3ZiTJzfZY0FHQGg1plZ3BMFTJgADPK3U6j7/tHx5AAMLBlOtBagD/mgSO8FK/SQEAGAASAHsAXB+UB0jUvbSIMWPoLm3q9es2mpR89SoSUq5dQ5PTbtyYlD8vcNe8QVqlYp1inmIN70g2WZN5+UL5XDNBMY9fZzZXTkas8bqvlc+VT3LeY65ZLzdbA6WTs7I5EVulXD9fsgFZVJuVUCKjOQtUSzDfanN/tOVup6vJKwbO1cx3uyFbf22+7aLA62SvWz+NxVxHK5vc9aapMnXqXPlGuV1smoUVH+1hZZnsY+eZJu+v8HOX+xOhXJPLZ02dmsXnai7aHJ8Tt+ezNLkXK/6xyqhW8bWOGOu/lB76bz10qP09p1sz9wR/ck1XMRcbgn8kvOJx5vk8f1P7xGCVdIlrQrzj7NJ9GfdNtQVBJvvU8w3Gfje/0kC/H789Su2wN7GeUk67lah1cGWjd8adm/R9+BxpcFsAHX+x0J8d+HGRiB/7vMI7jWsXxH/GB/4r2cCIP046umiBconxvMOH52vfmmWGjuJsjll4rQ53/zInKtLz74mDp3o3wB8AoBNGaO1v/QyOjW5qzTP0/iaWMQCAx74JKwNhNycgvm87AX5iZ9kMAJ1ucS5XMp8izgECoCS15L1IpZYH0DHdJr5D1aYvK0qImb4yp0j/BGhiwzCGsgSWjCNwxHxAyspmuYypaIlMAoD3BEAYeQHFwEGgGXljDPUBlsIPOEb+IJWa/mYyfGbFqAQt6Ac0hkZnqyRgukc/9YrLfGfk1EAPlFmRj+xwRB5jSrr6SsSBYxpgS4/DvieITC0ayYJIrPPcVT0lMzTMVhhSBLKA9gAaBhk5j16y77eHvElP4Y7Y2coS5iHmoJQpOmA7+dip4Ua6J1deRQiHhzmMDMBWs6LeChIQq/u1kCEyYYA/quWIznWVZ8srh1fbAiBlaqisXWgYfGobRSnQdGkeOJsBAAAA') format('woff2'),
+       url('iconfont.woff?t=1712890145166') format('woff'),
+       url('iconfont.ttf?t=1712890145166') format('truetype'),
+       url('iconfont.svg?t=1712890145166#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dujiaoshouqiye:before {
+  content: "\e66a";
+}
+
